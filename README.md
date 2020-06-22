@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Catharina O'Donnell
+### Harvard Sociology PhD Student
+#### she/her
 
-You can use the [editor on GitHub](https://github.com/codonn/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a PhD student in the sociology department at Harvard University. I received my B.A. in sociology and political science from McGill University in May 2020. My current research interests are largely based in political sociology. I am particularly interested in conservative and reactionary social movements, social violence, and masculinity. To learn more about my research projects, please click the research tab or view my CV. I can be reached at codonnell@g.harvard.edu. 
 
 ### Markdown
 
